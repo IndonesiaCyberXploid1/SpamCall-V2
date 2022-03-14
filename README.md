@@ -22,4 +22,3 @@ $ cd SpamCall-V2
 $ python SpamCall-V2.py
 ```
 [![](https://img.shields.io/static/v1?logo=youtube&label=subscribe&message=ANGGA%20XPLOIT&color=green)](https://youtube.com/channel/UCLgsOkTQlyixvUHia5pTA3w)
-[![](https://img.shields.io/static/v1?logo=youtube&label=subscribe&message=ANGGA%20XPOIT&color=green)](https://youtube.com/channel/UCLgsOkTQlyixvUHia5pTA3w)
